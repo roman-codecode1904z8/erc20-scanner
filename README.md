@@ -45,4 +45,4 @@ erc20-scan \
 
 Public RPCs (Infura, Alchemy, public endpoints) usually limit `eth_getLogs` block range to 2,000 or 10,000 blocks per request. The scanner automatically halves chunk size if the node returns response-size or query-range errors.
 
-<!-- refreshed: 2026-09-10 -->
+<!-- refreshed: 2026-09-11 -->
